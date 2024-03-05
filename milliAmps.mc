@@ -1,4 +1,4 @@
-Bilfinger                                                   MET/CAL Procedure
+                                                 MET/CAL Procedure
 =============================================================================
 INSTRUMENT:            MilliAmps
 DATE:                  2024-03-05 10:16:12
